@@ -1,0 +1,30 @@
+html{
+    margin: 0;
+    background-color: black;
+    background-image: url("cctvroom.jpg");
+    background-repeat: no-repeat;
+}
+
+img{
+    height: 500px;
+}
+p{
+    font-family: 'Source Code Pro', monospace;;
+    font-size: 18px;
+    line-height: 23px;
+    top: 150px;
+    left: 50px;
+    width: 400px;
+    position: absolute;
+}
+
+.image{
+    position: absolute;
+    bottom: 50px;
+    left: 300px;
+}
+.text{
+    display: inline;
+    position: absolute;
+    left: 600px;
+}
