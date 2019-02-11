@@ -16,7 +16,7 @@
   <hotspots width="180" wordwrap="1" height="20">
     <label width="180" backgroundalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1" height="20" textalpha="1" backgroundcolor="0xffffff" background="1" borderalpha="1" enabled="1" textcolor="0x000000"/>
     <polystyle handcursor="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0"/>
-    <polyhotspot title="Click me" id="Poly01" url="https://cdn.glitch.com/0f53a8c0-ce86-42d9-93f8-6e5ba0ab90cb%2Fpeople.gif?1549856169075" description="" target="_top">
+    <polyhotspot title="Click me" id="Poly01" url="tomato/htmls/robot.html" description="" target="_top">
       <vertex pan="179.85" tilt="7.49"/>
       <vertex pan="-165.35" tilt="1.78"/>
       <vertex pan="-166.83" tilt="-31.05"/>
